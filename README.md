@@ -1,6 +1,6 @@
 
 <div align="center">
-<img align="center" alt="LOGO" src="" />
+<img align="center" alt="LOGO" src="https://user-images.githubusercontent.com/93049899/216471642-a9cefdc9-c4ae-495b-9d62-a992f2ca1f9d.png"/>
   
   # About the site
    A digital clock created with HTML, CSS and JAVASCRIPT with differents backgrounds!
