@@ -22,5 +22,9 @@
 
 <img align="center" height = 500px src="https://user-images.githubusercontent.com/93049899/216470671-8509eb52-bd9f-4981-bdba-9164ac078b73.png"/></br>
 
+# References
+
+<a href="https://www.youtube.com/watch?v=GK0ok3ZCXwM&t=1s"> ● Relógio Digital DINÂMICO | HTML, CSS e JS.</a>
+
  </div>
 
